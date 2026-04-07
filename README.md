@@ -1,7 +1,7 @@
 # Hi 👋, I'm Gabriel Pimenta
 
 
-💻 Junior Developer in a continuous learning phase
+ Junior Developer in a continuous learning phase
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/gabriel-pimenta-b5b340149/))
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=minutemailer&logoColor=white)](eng.gabrielpimenta@outlook.com)
