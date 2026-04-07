@@ -1,22 +1,21 @@
 # Hi 👋, I'm Gabriel Pimenta
 
-💻 Junior Web Developer focused on building modern applications
-🚀 Currently learning and improving my skills
+💻 Junior Developer in a continuous learning phase
 
 ---
 
 * 🔥 Transitioning into the tech industry
-* 
-* 📚 Studying JavaScript, React and Node.js
-* 
+  
+* 📚 Studying JavaScript, React, Node.js and SQL
+  
 * 🎯 Goal: Land my first developer job
-* 
+  
 * 💬 Ask me about **HTML, CSS, JavaScript, Node.js**
-* 
-* ⚡ Fun fact: Background in Engineering & Foreign Trade
+  
+* 🎓 Degree in Civil Engineering and Systems Analysis & Development
 
 ---
 
 ## 🌐 Contact
 
-[LinkedIn](#) • [Email](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/gabriel-pimenta-b5b340149/))
