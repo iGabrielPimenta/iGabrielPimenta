@@ -2,7 +2,7 @@
 
 🎓 Bacharel em Engenharia Civil
 💻 Técnico em Análise e Desenvolvimento de Sistemas
-🚀 Em transição de carreira para Desenvolvimento de Software
+🚀 Em transição de carreira para a Programação
 
 ---
 
@@ -20,7 +20,6 @@ Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecime
 
 * 🌐 HTML | CSS | JavaScript
 * ⚛️ React (em aprendizado)
-* 🐍 Python (em aprendizado)
 * 🛠️ Git e GitHub
 * 🧩 Lógica de Programação
 
@@ -44,8 +43,8 @@ Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecime
 
 ## 📫 Contato
 
-* LinkedIn: (coloca seu link aqui)
-* Email: (coloca aqui)
+* LinkedIn: https://www.linkedin.com/in/gabriel-pimenta-b5b340149/)
+* Email: eng.gabrielpimenta@outlook.com
 
 ---
 
