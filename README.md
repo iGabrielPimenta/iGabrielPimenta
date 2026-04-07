@@ -1,5 +1,6 @@
 # Hi 👋, I'm Gabriel Pimenta
 
+
 💻 Junior Developer in a continuous learning phase
 
 ---
