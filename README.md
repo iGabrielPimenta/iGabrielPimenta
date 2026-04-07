@@ -6,9 +6,13 @@
 ---
 
 * 🔥 Transitioning into the tech industry
+* 
 * 📚 Studying JavaScript, React and Node.js
+* 
 * 🎯 Goal: Land my first developer job
+* 
 * 💬 Ask me about **HTML, CSS, JavaScript, Node.js**
+* 
 * ⚡ Fun fact: Background in Engineering & Foreign Trade
 
 ---
